@@ -15,6 +15,8 @@
 
 [基于PCIE和OV5640的摄像头采集设计（二）](https://mp.weixin.qq.com/s/WK9o4a_8PP8aXYn2H7Ds_Q)
 
+[基于PCIE和OV5640的摄像头采集设计(三)](https://mp.weixin.qq.com/s/IaaOxDPPGOsePkGEJHq3mw)
+
 ## 视频
 
 [FPGA实现PCIE采集OV5640摄像头视频_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vuYizZEVE/)
